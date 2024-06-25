@@ -1,0 +1,31 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+
+
+}
+
+.days{
+    font-family: 'Courier New', Courier, monospace;
+    height: 175px;
+    margin: 70px;
+    background-color: rgba(224, 245, 245, 0.267); 
+    border-radius: 25px;
+    font-size: xx-large;
+    color: rgb(15, 7, 2);
+}
+
+.innerday{
+    font-size: large;
+    color: black;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-bottom: 1px solid black;
+}
+
+
