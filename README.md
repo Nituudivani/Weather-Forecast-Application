@@ -1,6 +1,6 @@
 ## ScreenShots
 
-![App Screenshot](https://res.cloudinary.com/djkvcjvrs/image/upload/v1729572358/Traveling%20website/weather%20forecast/tuqxkgqk1kyh2z7nbhjp.png)
+![App Screenshot](https://res.cloudinary.com/djkvcjvrs/image/upload/v1729572894/weather%20forecast/dlgji1qgroqljllldnxw.png)
 
-![App Screenshot](https://res.cloudinary.com/djkvcjvrs/image/upload/v1729572358/Traveling%20website/weather%20forecast/tvnac1suoqcrkhr0nj2k.png)
+![App Screenshot](https://res.cloudinary.com/djkvcjvrs/image/upload/v1729572894/weather%20forecast/a2xrhjn7wuwzdxtgpltb.png)
 
